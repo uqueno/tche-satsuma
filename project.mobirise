@@ -1,0 +1,361 @@
+{
+  "settings": {
+    "name": "Kagoshima Kenjinkai RS - Shinnenkai 2017",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Roboto Condensed",
+        "subtitleFont": "Arimo",
+        "textFont": "Lora",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/kagoshima-rs-16x16-128x128-10.png",
+    "noImageResize": "",
+    "versionFirst": "3.9.2",
+    "uniqCompNum": 9,
+    "versionPublish": "3.10.2"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "30px"
+            },
+            "SPAN": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "21 JANEIRO 2017<br><span style=\"font-size: 4.39rem; line-height: 1.1;\">10h ~ 17h</span><br>",
+                "showText": true,
+                "text": "Contamos com os voluntários a participarem nos preparativos que iniciam a partir das 9 horas do 3º sábado do novo ano.<br>Participe no nosso shinnekai desde o início.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#contacts2-5\" data-toolbar=\"-mbrBtnMove\">LOCAL</a> "
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">RS州鹿児島県人会</span><br>第３７回新年会<br><span style=\"font-size: 4.39rem; line-height: 1.1; font-weight: normal;\">２０１７年度</span>",
+                "showText": true,
+                "text": "<b>37º SHINNENKAI</b><br><b>Kenjinkai da Província de Kagoshima do RS</b><br>Confraternização de Boas Vindas de 2017<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://1drv.ms/b/s!Ah_8SpprgoLxgY88Ws8mYnfo8jn6Lg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Baixar o informativo em PDF</a> "
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "ATIVIDADES",
+                "showText": true,
+                "text": "● Undoukai<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">● Seijinshiki</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">● Homenagem aos idosos</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">● <b>Opcional</b>, piscina pago das 17h até às 18h</span><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">Associação Cultural Kagoshima do Brasil</span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">CONTRIBUIÇÃO</span><br>",
+                "showText": true,
+                "text": "A forma de pagamento da anuidade da ACKB <b>é espontâneo e opcional</b>, podendo ser realizada&nbsp;preferencialmente por depósito bancário ou <b>diretamente no evento</b> onde também estará disponível o&nbsp;informativo sobre a associação.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "INVESTIMENTO",
+                "showText": true,
+                "text": "● R$ 30,00 por pessoa<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">● R$ 15,00 até 10 anos</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">● Isento até os 7 anos</span><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-8",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-4",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "hidden",
+            "showButtons": false,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "Valores<br>Subsidiados",
+          "subtitle": "Além dos valores de participação mencionados abaixo, as doações, sempre bem-vindas, serão destinadas para cobrir os custos do evento.",
+          "label1": "HOT!",
+          "title1": "STANDARD",
+          "subtitle1": "Description",
+          "currency1": "$",
+          "price1": "0",
+          "period1": "/mo.",
+          "description1": "More details",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label2": "HOT!",
+          "title2": "ADULTOS",
+          "subtitle2": "A partir dos 10 anos",
+          "currency2": "R$",
+          "price2": "30",
+          "period2": "00",
+          "description2": "Valor Individual",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Almoço (11h ~ 15h)</li><li class=\"list-group-item\">Água Mineral e Refrigerante (11h ~ 15h)</li><li class=\"list-group-item\">Chá À Vontade</li><li class=\"list-group-item\"><b>Chopp (30 litros)</b><i> para maiores de idade</i></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label3": "HOT!",
+          "title3": "MENORES",
+          "subtitle3": "Até 10 anos",
+          "currency3": "R$",
+          "price3": "15",
+          "period3": "00",
+          "description3": "Valor Individual",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Almoço (11h ~ 15h)</li><li class=\"list-group-item\">Água Mineral e Refrigerante (11h ~ 15h)</li><li class=\"list-group-item\">Chá À Vontade</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "CRIANÇAS",
+          "subtitle4": "Até 7 anos",
+          "currency4": "R$",
+          "price4": "",
+          "period4": "Isento",
+          "description4": "Isenção Individual",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Almoço (11h ~ 15h)</li><li class=\"list-group-item\">Água Mineral e Refrigerante (11h ~ 15h)</li><li class=\"list-group-item\">Chá À Vontade</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-0",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff",
+            "googleMap": {
+              "address": "R. Barbosa Neto, 1180 - Neópolis, Gravataí - RS, 94100-470, Brasil",
+              "placeId": "ChIJwQI6LxxzGZURUbRmRJP_JGw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-5",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "R. Barbosa Neto, 1180 - Neópolis, Gravataí - RS, 94100-470, Brasil",
+              "placeId": "ChIJwQI6LxxzGZURUbRmRJP_JGw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<p><strong>Endereço</strong><br>Rua Barbosa Neto, 1180 (RS-020 P69)<br>Bairro Neópolis<br>\nGravataí - RS<br><br><br>\n<strong>Contato</strong><br>Fixo: (51) 3102 5843<br>Móvel: (51) 9335 4981</p>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"http://www.anamarleysitiodeeventos.com.br/\" target=\"_blank\">Website Ana Marley Aquapark</a></li></ul>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-6",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kagoshima-rs-256x256-128x128-19.png",
+              "height": 128,
+              "alt": "Tche Satsuma",
+              "link": "",
+              "title": "Kagoshima Kenjinkai do RS | 37º Shinnenkai - Ano 2017",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tche Satsuma</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-4\">INVESTIMENTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-5\">INFO DO LOCAL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-0\">MAPA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        }
+      ]
+    }
+  }
+}
