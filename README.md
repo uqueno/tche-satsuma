@@ -47,7 +47,7 @@ Sistema web desenvolvido para facilitar a gestão de membros e eventos anuais (a
 ## 🛠️ Tecnologias
 
 ### Frontend
-- **Framework**: Next.js 14 (React 18)
+- **Framework**: Next.js 15 (React 18)
 - **Linguagem**: TypeScript
 - **Estilização**: Tailwind CSS
 - **Formulários**: React Hook Form + Yup
