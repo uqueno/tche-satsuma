@@ -320,6 +320,22 @@ Se não satisfeito com nossa resposta:
 - [ ] Certificação ISO 27001 (futuro)
 - [ ] Relatório de impacto à privacidade (RIPD)
 
+### Gestão de Vulnerabilidades
+
+**Monitoramento Contínuo**:
+- Verificação automática de dependências via `npm audit`
+- GitHub Dependabot para atualizações de segurança
+- CodeQL para análise estática de código
+- Revisão mensal de advisories de segurança
+
+**Processo de Atualização**:
+- Vulnerabilidades críticas: Correção em 24 horas
+- Vulnerabilidades altas: Correção em 1 semana
+- Vulnerabilidades médias: Correção em 1 mês
+- Vulnerabilidades baixas: Próximo ciclo de atualização
+
+**Histórico**: Ver [SECURITY_ADVISORIES.md](./SECURITY_ADVISORIES.md) para lista completa de vulnerabilidades corrigidas
+
 ## 12. Transparência
 
 ### Relatório de Transparência

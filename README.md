@@ -121,6 +121,7 @@ npm run dev
 
 - **[DEVELOPMENT_PROMPT.md](./DEVELOPMENT_PROMPT.md)**: Documento completo com requisitos, arquitetura, roadmap e boas práticas
 - **[DATABASE_SCHEMA.md](./DATABASE_SCHEMA.md)**: Schema completo do banco de dados com exemplos
+- **[SECURITY_ADVISORIES.md](./SECURITY_ADVISORIES.md)**: Vulnerabilidades conhecidas e correções aplicadas
 
 ## 🗺️ Roadmap
 

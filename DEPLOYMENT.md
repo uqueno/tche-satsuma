@@ -349,6 +349,27 @@ npm audit fix
 - [ ] CSRF tokens implementados
 - [ ] Validação de inputs no backend
 - [ ] Logs não expõem dados sensíveis
+- [ ] Dependências atualizadas (sem vulnerabilidades conhecidas)
+- [ ] `npm audit` executado e limpo
+
+### Monitoramento de Segurança
+
+Execute regularmente:
+```bash
+# Verificar vulnerabilidades
+npm audit
+
+# Corrigir vulnerabilidades automáticas
+npm audit fix
+
+# Ver detalhes
+npm audit --json
+
+# Atualizar dependências
+npm update
+```
+
+**Importante**: Sempre revise [SECURITY_ADVISORIES.md](./SECURITY_ADVISORIES.md) para vulnerabilidades conhecidas e suas correções.
 
 ## Troubleshooting
 
